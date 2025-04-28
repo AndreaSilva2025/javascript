@@ -25,7 +25,8 @@ Tudo isso com:
 - Estilização moderna para melhorar a experiência do usuário (UI/UX)
 
 ## 📸 Resultado Visual
-[Adicionar aqui um print da tela da aplicação]
+![image](https://github.com/user-attachments/assets/8cdf06fd-126c-49a0-9b66-7f9f66fb5686)
+
 
 ## 🔗 Link para acessar
 [Se você publicar no GitHub Pages ou outro hosting, coloque o link aqui]
