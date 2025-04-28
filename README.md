@@ -29,7 +29,7 @@ Tudo isso com:
 
 
 ## 🔗 Link para acessar
-[Se você publicar no GitHub Pages ou outro hosting, coloque o link aqui]
+(https://andreasilva2025.github.io/javascript/)
 
 ---
 **Projeto desenvolvido como parte dos meus estudos de Front-End.** 🚀✨
